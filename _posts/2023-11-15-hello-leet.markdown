@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Hello Leet"
+date:   2023-11-15 18:00:00 -0800
+categories: javascript leetcode
+---
 I started by retyping yesterday’s code without looking anything up; all good.
 
 I then picked a LeetCode question out of the question list at the end of Chapter 1 in Skiena’s
