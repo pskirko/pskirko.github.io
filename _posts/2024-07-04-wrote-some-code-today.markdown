@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Wrote some code again today"
-date:   2024-07-04 23:26:00 -0800
+title:  "Wrote Some Code Today"
+date:   2024-07-04 23:26:00 -0700
 categories: code
 ---
 Well, it's been a minute since I wrote here. I wrote some Python code today, to extract
