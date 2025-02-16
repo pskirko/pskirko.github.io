@@ -2,7 +2,7 @@
 layout: post
 title:  "Giving Semantic Kernel a Try"
 date:   2025-02-15 14:36:00 -0800
-categories: dotnet, semantic-kernel
+categories: dotnet semantic-kernel
 ---
 Last weekend, I decided to give [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 a try. I am curious how these AI app frameworks are shaping up, especially to see if they provide appreciable value
